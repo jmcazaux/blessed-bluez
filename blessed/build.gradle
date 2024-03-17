@@ -2,8 +2,8 @@ apply plugin: 'java'
 apply plugin: 'jacoco'
 apply plugin: 'maven-publish'
 
-group 'com.github.weliem'
-version '1.0-library'
+group 'com.github.weliem.blessed-bluez'
+version '1.0-local'
 
 compileJava {
     sourceCompatibility = '1.8'
